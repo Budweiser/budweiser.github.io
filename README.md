@@ -1,4 +1,2 @@
-budweiser.github.io
-===================
-
-My Own Blog
+# Readme
+This is a Chinese blog about machine learning, data visualization etc.
